@@ -1,0 +1,4 @@
+nltk
+streamlit
+spacy
+deep_translator
