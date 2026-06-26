@@ -360,25 +360,25 @@ def show_wordcloud(tokens):
 
 tabs = st.tabs([
 
-    "Atividade 1",
+    "Tokenização (Atv #1)",
 
-    "Atividade 2",
+    "Frequência (Atv #2",
 
-    "Atividade 3",
+    "Palavras negativas (Atv #3)",
 
-    "Atividade 4",
+    "Stopwords (Atv 4)",
 
-    "Atividade 5",
+    "Sentimento (Atv #5)",
 
-    "Atividade 6",
+    "Classificação (Atv #6)",
 
-    "Atividade 7",
+    "Reclamações (Atv #7)",
 
-    "Atividade 8",
+    "Setores (Atv #8)",
 
-    "Atividade 9",
+    "Limpeza (Atv #9)",
 
-    "Atividade 10"
+    "Pipeline NLP (Atv #10)"
 
 ])
 
